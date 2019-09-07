@@ -86,4 +86,4 @@ External dependencies include:
 ## Naming conventions for unit tests
 * Project -> create a test project named `[ProjectUnderTest].UnitTests`
 * Class -> create a class named `[ClassName]Tests`
-* Unit of work -> create a test method named `[UnitOfWorkName]_[ScenarioUnderTest]_[Expe
+* Unit of work -> create a test method named `[UnitOfWorkName]_[ScenarioUnderTest]_[ExpectedBehavior]`
